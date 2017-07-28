@@ -1,0 +1,3 @@
+[submodule "weather-mn"]
+	path = weather-mn
+	url = https://github.com/zzzdeb/weather-mn.git
