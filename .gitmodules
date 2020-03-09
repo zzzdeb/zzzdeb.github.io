@@ -1,6 +1,0 @@
-[submodule "weather-mn"]
-	path = weather-mn
-	url = https://github.com/zzzdeb/weather-mn.git
-[submodule "genki"]
-	path = genki
-	url = git@github.com:zzzdeb/genki-study-resources
