@@ -314,6 +314,10 @@ Application.prototype.loadShortcuts = function(){
   this.page_selector.onchange = function(e){
     this_orig.changePageTo(this.selectedIndex)
   }
+
+  $('.num-of-pages')[0].onchange = function(e){
+    this_orig.setPagesToShow(this.value)
+  }
 }
 
 Application.prototype.loadMetaData = function() {
